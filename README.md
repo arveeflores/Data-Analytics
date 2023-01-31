@@ -6,4 +6,5 @@ Different projects related to Data Analytics
 - Python
 - R
 - SQL
-[Project1](/MAN202.ipynb)
+
+[Project1](https://github.com/arveeflores/DataAnalytics/blob/main/MAN202.ipynb)
