@@ -6,4 +6,4 @@ Different projects related to Data Analytics
 - Python
 - R
 - SQL
-[Project1](MAN202.ipynb)
+[Project1](/MAN202.ipynb)
