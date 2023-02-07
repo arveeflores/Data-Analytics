@@ -9,7 +9,7 @@
 
 
 ### R Language Projects
-  - [Personal Song Lyrics Assistant](/Personal%20Song%20Lyrics%20Assistant/PSLA.md)
+  - [Personal Song Lyrics Assistant](/DataAnalytics/Personal%20Song%20Lyrics%20Assistant/PSLA.md)
   
 
 ### SQL
