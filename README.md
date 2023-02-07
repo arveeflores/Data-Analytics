@@ -1,12 +1,16 @@
-#Data Analytics
-###Different projects related to Data Analytics
-- Data Visualization
-  - PowerBI
-  - Tableau
-- Python
-R Language Projects
-[Personal Song Lyrics Assistant](https://github.com/arveeflores/DataAnalytics/tree/main/Personal%20Song%20Lyrics%20Assistant)
+# Data Analytics
+## Different projects related to Data Analytics
 
-- SQL
+### Data Visualization
+- PowerBI
+- Tableau
+
+### Python
+
+
+### R Language Projects
+  - [Personal Song Lyrics Assistant](https://github.com/arveeflores/DataAnalytics/tree/main/Personal%20Song%20Lyrics%20Assistant)
+
+### SQL
 
 [Project1](https://github.com/arveeflores/DataAnalytics/blob/main/MAN202.ipynb)
