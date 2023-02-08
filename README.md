@@ -1,3 +1,5 @@
+
+theme:tactile
 ## Different projects related to Data Analytics
 
 ### Data Visualization
