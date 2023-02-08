@@ -5,10 +5,10 @@
 - Tableau
 
 ### Python
-  - [Bank Loan Duration Anlaysis Project](/DataAnalytics/Python%20Projects/)
+  - [Bank Loan Duration Anlaysis Project](/Data-Analytics/Python%20Projects/)
 
 ### R Language Projects
-  - [Personal Song Lyrics Assistant Project](/DataAnalytics/Personal%20Song%20Lyrics%20Assistant/)
+  - [Personal Song Lyrics Assistant Project](/Data-Analytics/Personal%20Song%20Lyrics%20Assistant/)
   
 
 ### SQL
