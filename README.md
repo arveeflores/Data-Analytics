@@ -1,4 +1,3 @@
-# Data Analytics
 ## Different projects related to Data Analytics
 
 ### Data Visualization
