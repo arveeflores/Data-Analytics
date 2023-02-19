@@ -4,7 +4,7 @@
 ### Data Visualization
 - PowerBI
 - Tableau
-  - <iframe seamless frameborder="0" src="https://public.tableau.com/app/profile/arvee.flores/viz/PublicSalesDatasetVisualization/GeomapwithSalesperStates?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450'></iframe> 
+  - [Tableau Projects](/Data-Analytics/Tableau%20Projects/)
 
 ### Python
   - [Bank Loan Duration Anlaysis Project](/Data-Analytics/Python%20Projects/)
