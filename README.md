@@ -2,15 +2,24 @@
 ## Different projects related to Data Analytics
 
 ### Data Visualization
-- PowerBI
-- Tableau
-  - [Tableau Projects](/Data-Analytics/Tableau%20Projects/)
+- [PowerBI Projects](/Data-Analytics/PowerBI%20Projects/)
+Empty img1 img2 img3
+
+- [Tableau Projects](/Data-Analytics/Tableau%20Projects/)
+With Project img1 img2 img3
 
 ### Python
-  - [Bank Loan Duration Anlaysis Project](/Data-Analytics/Python%20Projects/)
+- [Python Projects](/Data-Analytics/Python%20Projects/)
+With Project img1 img2 img3
 
-### R Language Projects
-  - [Personal Song Lyrics Assistant Project](/Data-Analytics/Personal%20Song%20Lyrics%20Assistant/)
-  
+### R
+- [R Project](/Data-Analytics/R%20Projects/)  
+With Project img1 img2 img3
 
 ### SQL
+- [SQL Projects](/Data-Analytics/SQL%20Projects/)
+Empty img1 img2 img3
+
+### Certifications
+- [Google Certificates](/Data-Analytics/Certifications/Google%20Certificates/)
+Empty img1 img2 img3
