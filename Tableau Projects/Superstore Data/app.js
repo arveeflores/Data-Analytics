@@ -1,7 +1,7 @@
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/app/profile/arvee.flores/viz/PublicSalesDatasetVisualization/GeomapwithSalesperStates";
+const url = "https://public.tableau.com/shared/YWBFP7GGN?:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
