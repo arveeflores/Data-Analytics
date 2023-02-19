@@ -1,14 +1,14 @@
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/shared/YWBFP7GGN?:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/PublicSalesDatasetVisualization/GeomapwithSalesperStates?:language=en-US&:display_count=n&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
     height: 1000,
     width: 1200,
-    onFirstInteraction: function() {
+    onFirstInteraction: function () {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
         console.log("My dashboard is interactive");
@@ -35,7 +35,7 @@ function generatePDF() {
 
 exportPDF.addEventListener("click", function () {
     generatePDF();
-  });
+});
 
 //click on image to generate image of dashboard
 function generateImage() {
@@ -44,4 +44,4 @@ function generateImage() {
 
 exportImage.addEventListener("click", function () {
     generateImage();
-  });
+});
