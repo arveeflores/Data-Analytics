@@ -6,8 +6,6 @@ An application created in R that lets you have your personal collection of song 
 
 <img src="./Personal%20Song%20Lyrics%20Assistant/PSLA.png" alt="" width="250" height="400">
 
-<img src="/Personal%20Song%20Lyrics%20Assistant/PSLA.png" alt="" width="250" height="400">
-
 ## R Packages
 - rshiny
 - rvest
