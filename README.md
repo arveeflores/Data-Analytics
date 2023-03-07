@@ -14,5 +14,8 @@
 ### SQL
 - [SQL Projects](/Data-Analytics/SQL%20Projects/)
 
+### Other Projects
+- [Other Projects](/Data-Analytics/Other%20Projects/)
+
 ### Certifications
 - [Google Certificates](/Data-Analytics/Certifications/Google%20Certificates/)
