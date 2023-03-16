@@ -4,6 +4,9 @@ An application created in R that lets you have your personal collection of song 
 
 <img src="./PSLA.png" alt="" width="250" height="400">
 
+## Keywords: 
+### text-mining, bag-of-words, term frequency, emotion classification, nlp
+
 ## R Packages
 ### Interface Packages
 - shiny
