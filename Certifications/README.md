@@ -8,7 +8,10 @@
 2. Ask Ouestions to Make Data-Driven Decisions
 <img src="./Data-Analytics/Certifications/Google%20Certificates/Data2.png" alt="Ask Ouestions to Make Data-Driven Decisions" width=450 height=350>
 <br>
-3. Google Cloud Platform Fundamentals for AWS Professionals
+3. Prepare Data for Exploration
+<img src="./Data-Analytics/Certifications/Google%20Certificates/Data3.png" alt="Prepare Data for Exploration" width=450 height=350>
+<br>
+4. Google Cloud Platform Fundamentals for AWS Professionals
 <img src="./Data-Analytics/Certifications/Google%20Certificates/GCP.png" alt="Google Cloud Platform Fundamentals for AWS Professionals" width=450 height=350>
 <br>
 
