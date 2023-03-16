@@ -1,6 +1,6 @@
 # Certifications
 
-## [Google Certificates](/Data-Analytics/Certifications/Google%20Certificates/)
+## Google Certificates
 
 1. Foundations: Data, Data, Everywhere
 <br>
@@ -25,3 +25,5 @@
 <br>
 <img src="./Other%20Certificates/MATLAB.png" alt="Introduction to Programming with MATLAB" width=450 height=350>
 <br>
+
+## [LinkedIn Profile](https://linkedin.com/in/arveeflores)

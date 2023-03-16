@@ -4,11 +4,11 @@ This project evaluates and compares two machine learning techniques (logistic re
 
 <img src="./evaluation.png" alt="">
 
-Fields: 20
-Rows: 4410
-Data Size: 88200
+- Fields: 20 <br>
+- Rows: 4410 <br>
+- Data Size: 88200
 
 ## Keywords: 
 ### logistic regression, boosted decision tree, correlation, prediction, classification, azure machine learning, r language
 
-Repository: [Evaluation of Machine Learning Techniques used in Employee Attrition Rate](https://github.com/arveeflores/Data-Analytics/tree/main/Other%20Projects/Employee%20Attrition%20Rate)
+Repository: [Evaluation of Machine Learning Techniques used in Employee Attrition Rate](https://github.com/arveeflores/Data-Analytics/tree/main/Other%20Projects/Employee%20Attrition%20Rate%20Project)
