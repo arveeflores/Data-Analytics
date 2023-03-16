@@ -18,4 +18,4 @@
 - [Other Projects](/Data-Analytics/Other%20Projects/)
 
 ### Certifications
-- [Certificates](/Data-Analytics/Certifications/Certificates/)
+- [Certificates](/Data-Analytics/Certifications/)
