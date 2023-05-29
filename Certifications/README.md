@@ -14,7 +14,16 @@
 <br>
 <img src="./Google%20Certificates/Data3.png" alt="Prepare Data for Exploration" width=450 height=350>
 <br>
-4. Google Cloud Platform Fundamentals for AWS Professionals
+4. Process Data from Dirty to Clean
+<br>
+<img src="./Google%20Certificates/Data4.png" alt="Process Data from Dirty to Clean" width=450 height=350>
+<br>
+5. Analyze Data to Answer Questions
+<br>
+<img src="./Google%20Certificates/Data5.png" alt="Analyze Data to Answer Questions" width=450 height=350>
+<br>
+
+9. Google Cloud Platform Fundamentals for AWS Professionals
 <br>
 <img src="./Google%20Certificates/GCP.png" alt="Google Cloud Platform Fundamentals for AWS Professionals" width=450 height=350>
 <br>
